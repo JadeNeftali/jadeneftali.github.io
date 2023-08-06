@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: rgb(53, 95, 13);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: dashed 1px rgb(233, 66, 233);
+  /* / background-color: rgb(22, 100, 190); */
+  /* background: radial-gradient(red 0%, orange 20% 30%, yellow 50% 70%, green 90% 100%);  */
+  background: linear-gradient(rgb(250, 92, 44) 0%, rgb(204, 247, 86) 10% 30%, rgb(101, 235, 67) 50% 70%, green 90% 100%);
+  height: 50px;
+  ed 0%,
+  orange 10% 30%,
+  yellow 50% 70%,
+  green 90% 100%
+  /* } */
